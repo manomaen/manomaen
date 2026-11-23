@@ -10,6 +10,10 @@ Die Websites in meinen Repositories sind Übungsprojekte aus meiner Lernphase mi
 - **projekt2:** Übungswebsite mit Mode- und Shop-Layout, HTML5 und CSS3.
 - **Project-3:** Übungswebsite mit Sport- und Shop-Layout, HTML5, CSS3 und Bootstrap.
 
+## Zootify: Universitätsprojekt im Team
+
+Zootify ist ein Universitätsprojekt zur Dokumentation zoologischer Sammlungen mit einem Angular-Frontend. Mein Beitrag lag bei Ideen, dem anfänglichen Grundgerüst mit Routing, Seitenvorlagen sowie der deutschen und englischen Übersetzung. Für die gesamte Umsetzung meines Anteils habe ich Claude Code angeleitet und den Code damit erstellen und bei Fehlern überarbeiten lassen. Die weitere Entwicklung erfolgte im Team.
+
 ## IT-Sicherheit
 
 Auf TryHackMe habe ich den Lernpfad **Pre Security** abgeschlossen und mit **Cyber Security 101** begonnen.
